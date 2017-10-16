@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  activity: MyString
+  location: MyString
+  cost: 1
+  duration: 1
+
+two:
+  activity: MyString
+  location: MyString
+  cost: 1
+  duration: 1
